@@ -12,12 +12,12 @@ gantt
     section Sprint 1: Definición
     Ideas principales                :a1, 2026-04-20, 2d
     Lluvia de ideas                  :after a1, 2d
-    Ilustraciones y prototipos        :after a1, 2d
-    Inicio del informe                :a4, 2026-04-20, 10d
+    Ilustraciones y prototipos       :after a1, 2d
+    Inicio del informe               :a4, 2026-04-20, 10d
 
     section Sprint 2: Desarrollo
-    Página web (inicio)         :b1, 2026-04-23, 36d
-    Continuación del informe    :b2, 2026-04-23, 36d
+    Página web (inicio)         :b1, 2026-04-23, 34d
+    Continuación del informe    :b2, 2026-04-23, 34d
 
     section Sprint 3: Cierre
     Finalizar página web        :c1, 2026-05-27, 1d
