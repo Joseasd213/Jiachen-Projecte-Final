@@ -34,57 +34,112 @@ gantt
 
 ---
 
-## ⚙️ Organización del trabajo
+# CitaFácil
 
-El proyecto se ha dividido en tres fases principales (sprints):
+## 1. Título
+CitaFácil
 
-### Sprint 1
+## 2. Integrantes del proyecto
+- Jiachen
 
-En esta fase inicial se definen las bases del proyecto:
+## 3. Objetivos
+El objetivo es crear una página web para una empresa centrada en la gestión de citas administrativas, donde se centralicen los servicios ofrecidos. La web debe ser clara, accesible y adaptada a usuarios con poca experiencia digital, incluyendo múltiples subpáginas y funcionalidades alineadas con las necesidades detectadas previamente.
 
-* Ideas principales
-* Objetivos
-* Público objetivo
-* Primeros diseños y prototipos
+## 4. Explicación del proyecto
+El proyecto consiste en el desarrollo de una plataforma web para ayudar a personas con dificultades digitales a gestionar citas administrativas.
 
-También se inicia el informe para documentar el planteamiento del proyecto.
+Está dirigida especialmente a:
+- Personas mayores  
+- Usuarios con baja competencia digital  
+- Nuevos residentes  
 
-### Sprint 2
+La web ofrecerá:
+- Guías claras  
+- Asistencia personalizada  
+- Acompañamiento durante el proceso  
 
-Se comienza el desarrollo de la página web:
+Se prioriza una interfaz simple, intuitiva y accesible, evitando la sobrecarga de información.
 
-* Estructura HTML
-* Estilos CSS
-* Componentes principales
+## 5. Material del proyecto
 
-Paralelamente, se continúa el informe explicando el proceso y las herramientas utilizadas.
+### Hardware
+- Ordenador  
 
-### Sprint 3
+### Software
+- Visual Studio Code  
+- HTML  
+- CSS  
+- Java  
+- Tailwind (en pruebas)  
 
-Fase final del proyecto:
+### Herramientas de diseño
+- Canva  
+- Paint  
+- Pixlr  
+- Background Remover  
+- Picsart  
+- Adobe  
 
-* Finalización y optimización de la web
-* Redacción final del informe
-* Revisión y pruebas
-* Recogida de feedback
-* Mejoras finales
-* Entrega del proyecto
+### Otros recursos
+- ChatGPT  
+- Proyectos anteriores  
+- Formularios A/B  
+- MVPs  
+- Páginas de inspiración (Doctoralia, Puma, RACC)
 
----
+## 6. Desarrollo y despliegue
+El desarrollo se ha basado en un proceso estructurado:
 
-## ⚠️ Dependencias del proyecto
+1. Creación de prototipos (a mano e IA)  
+2. Diseño visual de la web  
+3. Implementación en HTML y CSS  
+4. Aplicación de diseño responsive  
+5. Creación de iconos propios  
+6. Pruebas y revisiones  
 
-* La creación de la página web depende de:
+Se ha utilizado Visual Studio Code como entorno de desarrollo y se han aplicado mejoras basadas en proyectos anteriores.
 
-  * La lluvia de ideas
-  * Los prototipos iniciales
+## 7. Planificación
 
-* El informe depende del progreso general del proyecto, ya que documenta todo el proceso.
+### Sprint 1 (20/4 - 28/4)
+- Definir ideas principales  
+- Identificar objetivo y público  
+- Definir funcionalidades  
+- Lluvia de ideas  
+- Crear prototipos  
+- Inicio del informe  
 
----
+### Sprint 2 (28/4 - 5/5)
+- Desarrollo inicial web  
+- HTML y CSS  
+- Componentes principales  
+- Continuación del informe  
+- Documentación técnica  
 
-## Integrante
+### Sprint 3 (5/5 - 29/5)
+- Finalización web  
+- Corrección de errores  
+- Optimización  
+- Finalización informe  
+- Pruebas  
+- Feedback  
+- Mejoras  
+- Entrega final  
 
--Jiachen
+### Problemas detectados
+- Dependencia de prototipos para empezar  
+- El informe depende del progreso del proyecto  
 
----
+## 8. Webgrafía
+- https://eu.puma.com/es/es/help/contact-us?srsltid=AfmBOoqUPo26kPCMh1fNhYsJJ2r-e5A_IDaLNgtelP3CP8lNQLrl5Vl0
+- https://www.doctoralia.es/
+- https://joseasd213.github.io/si/
+
+
+## 9. Anexos
+- Imágenes del proceso  
+- Prototipos  
+- Ilustraciones a mano  
+- Ilustraciones con IA  
+- Iconos  
+- Referencias visuales  
