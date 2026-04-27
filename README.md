@@ -91,10 +91,10 @@ Se prioriza una interfaz simple, intuitiva y accesible, evitando la sobrecarga d
 El desarrollo se ha basado en un proceso estructurado:
 
 1. Creación de prototipos (a mano e IA)  
-2. Diseño visual de la web  
-3. Implementación en HTML y CSS  
-4. Aplicación de diseño responsive  
-5. Creación de iconos propios  
+2. Diseño visual de la web
+3. Creación de iconos propios  
+4. Implementación en HTML, CSS y JS  
+5. Aplicación de diseño responsive  
 6. Pruebas y revisiones  
 
 Se ha utilizado Visual Studio Code como entorno de desarrollo y se han aplicado mejoras basadas en proyectos anteriores.
@@ -131,10 +131,9 @@ Se ha utilizado Visual Studio Code como entorno de desarrollo y se han aplicado 
 - El informe depende del progreso del proyecto  
 
 ## 8. Webgrafía
-- https://eu.puma.com/es/es/help/contact-us?srsltid=AfmBOoqUPo26kPCMh1fNhYsJJ2r-e5A_IDaLNgtelP3CP8lNQLrl5Vl0
-- https://www.doctoralia.es/
-- https://joseasd213.github.io/si/
-
+- https://eu.puma.com/es/es/help/contact-us?srsltid=AfmBOoqUPo26kPCMh1fNhYsJJ2r-e5A_IDaLNgtelP3CP8lNQLrl5Vl0 (Estructura del contactos)
+- https://www.doctoralia.es/ (Estructura de la pagina inicial)
+- https://joseasd213.github.io/si/ (Estructura del sliders de JS)
 
 ## 9. Anexos
 - Imágenes del proceso  
